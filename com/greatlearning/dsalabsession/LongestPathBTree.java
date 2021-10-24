@@ -1,7 +1,5 @@
 package com.greatlearning.dsalabsession;
 
-import com.greatlearning.ds.nonlinear.BSTree;
-
 import java.util.ArrayList;
 
 public class LongestPathBTree {
